@@ -19,31 +19,31 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 204 # Get this value from my.telegram.org/apps
-    API_HASH = ""
+    API_ID = 25475489 # Get this value from my.telegram.org/apps
+    API_HASH = "3fc2b371f4fbb0166758736414d8be92"
 
     # Database configuration (PostgreSQL)
-    DATABASE_URL = "postgres:"
+    DATABASE_URL = "postgres://avnadmin:AVNS_yeAUK7te1DAZR79yUuj@choco-chocoxgithub-f883.c.aivencloud.com:16510/defaultdb?sslmode=require"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -100
-    MESSAGE_DUMP = -100
+    EVENT_LOGS = -1002400130574
+    MESSAGE_DUMP = -1002400130574
 
     # MongoDB configuration
-    MONGO_DB_URI = ""
+    MONGO_DB_URI = "mongodb+srv://Choco:Choco@cluster0.rohac.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     # Support chat and support ID
-    SUPPORT_CHAT = ""
-    SUPPORT_ID = -100
+    SUPPORT_CHAT = "https://t.me/ANIME_CHAT_ANG"
+    SUPPORT_ID = -1002195515883
 
     # Database name
     DB_NAME = ""
 
     # Bot token
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "7764287955:AAE0zQiW7YdZouzfj70pxtWG_zp9FsCHAD0"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 5907205317
+    OWNER_ID = 1266240012
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
