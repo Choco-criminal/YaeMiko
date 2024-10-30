@@ -26,8 +26,8 @@ class Config(object):
     DATABASE_URL = "postgres://avnadmin:AVNS_yeAUK7te1DAZR79yUuj@choco-chocoxgithub-f883.c.aivencloud.com:16510/defaultdb?sslmode=require"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -1002400130574
-    MESSAGE_DUMP = -1002400130574
+    EVENT_LOGS = -1002400406647
+    MESSAGE_DUMP = -1002400406647
 
     # MongoDB configuration
     MONGO_DB_URI = "mongodb+srv://Choco:Choco@cluster0.yddf3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
