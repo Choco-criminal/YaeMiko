@@ -30,17 +30,17 @@ class Config(object):
     MESSAGE_DUMP = -1002400130574
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://Choco:Choco@cluster0.rohac.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    MONGO_DB_URI = "mongodb+srv://Choco:Choco@cluster0.yddf3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "https://t.me/ANIME_CHAT_ANG"
-    SUPPORT_ID = -1002195515883
+    SUPPORT_CHAT = "https://t.me/chocoXsupport"
+    SUPPORT_ID = -10022436680661
 
     # Database name
-    DB_NAME = ""
+    DB_NAME = "Choco" 
 
     # Bot token
-    TOKEN = "7764287955:AAE0zQiW7YdZouzfj70pxtWG_zp9FsCHAD0"  # Get bot token from @BotFather on Telegram
+    TOKEN = "7010022450:AAEixXqUCOTJSkH3GiX8JSkvJEJRRbXjjL4"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
     OWNER_ID = 1266240012
