@@ -23,7 +23,7 @@ class Config(object):
     API_HASH = "3fc2b371f4fbb0166758736414d8be92"
 
     # Database configuration (PostgreSQL)
-    DATABASE_URL = "postgres://avnadmin:AVNS_yeAUK7te1DAZR79yUuj@choco-chocoxgithub-f883.c.aivencloud.com:16510/defaultdb?sslmode=require"
+    DATABASE_URL = "postgres://avnadmin:AVNS_TbzxTp8QTaLOy_GjvCr@choco-chocoxgithub-f883.j.aivencloud.com:16510/defaultdb?sslmode=require"
 
     # Event logs chat ID and message dump chat ID
     EVENT_LOGS = -1002400406647
@@ -37,7 +37,7 @@ class Config(object):
     SUPPORT_ID = -10022436680661
 
     # Database name
-    DB_NAME = "Choco" 
+    DB_NAME = "choco" 
 
     # Bot token
     TOKEN = "7010022450:AAEixXqUCOTJSkH3GiX8JSkvJEJRRbXjjL4"  # Get bot token from @BotFather on Telegram
